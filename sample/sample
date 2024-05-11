@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV Trần Việt Đức</title>
+</head>
+<style>
+    h3{
+        color: rgb(96, 206, 63); 
+        font-size: 35px;
+    }
+</style>
+
+<body>
+
+    <h3>Menu Đồ uống</h3>
+    <ol>
+        <li>Nước cam</li>
+        <LI>Nước chanh</LI>
+        <li>Nước trà</li>
+    </ol>
+    <h4>Danh sách quốc gia</h4>
+    <ul>
+        <li>Việt Nam</li>
+        <li>Truong Quốc</li>
+        <li>Lào</li>
+    </ul>
+</body>
+
+</html>
